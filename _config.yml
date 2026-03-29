@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Xin Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Student at Tsinghua University SIGS, interested in multimodal and aigc."
-  location         : "Earth"
+  bio              : "Student at Tsinghua University SIGS."
+  location         : "Shenzhen, China"
   employer         : "Tsinghua University SIGS"
   uri              : # URL
   email            : "iwuxin03@gmail.com" 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/XindaAAA"
+  github           : "XindaAAA"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
